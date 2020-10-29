@@ -1,0 +1,9 @@
+,Entry_Number,Name,Compilation_Status,Score,Remark
+0,2018CSB1125,Ambuj,Failed,0.0,Compilation Failed
+1,2017CSB1125,Anuj,Failed,0.0,Compilation Failed
+2,2019MCB1216,Diksha,Success,83.33333333333334,failed for test cases 1
+3,2018CSB1216,Disha,Success,50.0,"failed for test cases 1,4,5"
+4,2018CSB1124,Tanay,Success,66.66666666666666,"failed for test cases 2,3"
+5,2019CSB1124,Tanmay,Success,100.0,All test cases passed
+6,2019CSB1125,Tanuj,Success,100.0,All test cases passed
+7,2017CSB1123,Tarun,Success,66.66666666666666,"failed for test cases 3,6"
